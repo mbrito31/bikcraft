@@ -69,3 +69,7 @@ margin-bottom: 16px;
 .bicicletas-lista ul {
 gap: 20px;
 }
+.sumirnomobile {
+opacity: 0;
+}
+}
